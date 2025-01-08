@@ -1,0 +1,59 @@
+=== System === 
+
+--- Test Routines --- 
+
+No routines of this type were run in the session.
+
+=== Networking === 
+
+--- Network Info ---
+
+Name: SpectrumSetup-40
+Type: WiFi
+State: Online
+Active: True
+MAC Address: 28:D0:EA:40:67:58
+Signal Strength: 82
+Frequency: 5220
+SSID: SpectrumSetup-40
+BSSID: 44:AD:B1:85:22:47
+Security: PSK (WPA or RSN)
+Gateway: 192.168.1.1
+IP Address: 192.168.1.60
+Name Servers: 192.168.1.1
+Subnet Mask: 255.255.255.0
+
+--- Test Routines --- 
+
+1/7/25, 4:00:43 AM - GatewayCanBePinged - Started
+1/7/25, 4:00:47 AM - GatewayCanBePinged - Passed
+1/7/25, 4:00:47 AM - LanConnectivity - Started
+1/7/25, 4:00:48 AM - LanConnectivity - Passed
+1/7/25, 4:00:48 AM - ArcPing - Started
+1/7/25, 4:00:49 AM - ArcPing - Unable to run
+1/7/25, 4:00:49 AM - DnsResolverPresent - Started
+1/7/25, 4:00:50 AM - DnsResolverPresent - Passed
+1/7/25, 4:00:50 AM - DnsResolution - Started
+1/7/25, 4:00:51 AM - DnsResolution - Passed
+1/7/25, 4:00:51 AM - DnsLatency - Started
+1/7/25, 4:00:52 AM - DnsLatency - Passed
+1/7/25, 4:00:52 AM - ArcDnsResolution - Started
+1/7/25, 4:00:53 AM - ArcDnsResolution - Unable to run
+1/7/25, 4:00:53 AM - SignalStrength - Started
+1/7/25, 4:00:54 AM - SignalStrength - Passed
+1/7/25, 4:00:54 AM - CaptivePortal - Started
+1/7/25, 4:00:55 AM - CaptivePortal - Passed
+1/7/25, 4:00:55 AM - HasSecureWiFiConnection - Started
+1/7/25, 4:00:56 AM - HasSecureWiFiConnection - Passed
+1/7/25, 4:00:56 AM - HttpsFirewall - Started
+1/7/25, 4:00:58 AM - HttpsFirewall - Passed
+1/7/25, 4:00:58 AM - HttpFirewall - Started
+1/7/25, 4:00:59 AM - HttpFirewall - Passed
+1/7/25, 4:00:59 AM - HttpsLatency - Started
+1/7/25, 4:01:00 AM - HttpsLatency - Passed
+1/7/25, 4:01:00 AM - ArcHttp - Started
+1/7/25, 4:01:01 AM - ArcHttp - Unable to run
+
+--- Network Events ---
+
+1/7/25, 4:00:43 AM - WiFi network [28:D0:EA:40:67:58] started in state Online
