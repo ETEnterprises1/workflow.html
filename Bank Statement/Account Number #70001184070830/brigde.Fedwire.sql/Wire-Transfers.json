@@ -1,0 +1,3 @@
+* Any line with this symbol will be a 'new' wire transfer input
+# Any line with this symbol will be ignored.
+^ Any line with this synbol will signify that the wire transfer had to be corrected.
